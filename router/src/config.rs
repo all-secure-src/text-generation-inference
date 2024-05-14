@@ -146,6 +146,7 @@ pub enum Config {
     Mixtral,
     Starcoder2,
     Qwen2,
+    OmegaNeo,
     Opt,
     T5,
 }
